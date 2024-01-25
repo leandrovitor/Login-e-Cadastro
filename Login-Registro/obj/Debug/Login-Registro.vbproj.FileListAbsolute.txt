@@ -1,0 +1,27 @@
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\bin\Debug\Login-Registro.exe.config
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\bin\Debug\Login-Registro.exe
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\bin\Debug\Login-Registro.pdb
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\bin\Debug\Login-Registro.xml
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login-Registro.vbprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login_Registro.Form1.resources
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login_Registro.Resources.resources
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login-Registro.vbproj.GenerateResource.Cache
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login-Registro.exe
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login-Registro.xml
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login-Registro.pdb
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login_Registro.Form2.resources
+C:\Users\Home\Desktop\VIDEO-AULA\8tutors\aulas-visual-basic\#01-TOOLBOX\pedidos\01-sistema-login\Login-aula\projeto\Login-Registro\Login-Registro\obj\Debug\Login_Registro.Form3.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\bin\Debug\Login-Registro.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\bin\Debug\Login-Registro.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\bin\Debug\Login-Registro.pdb
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\bin\Debug\Login-Registro.xml
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.vbproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login_Registro.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login_Registro.Form2.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login_Registro.Form3.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login_Registro.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.vbproj.GenerateResource.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.vbproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.exe
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.xml
+C:\Users\Leandro\Documents\Visual Studio 2015\Projects\Login-Registro\obj\Debug\Login-Registro.pdb
